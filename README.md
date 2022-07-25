@@ -16,9 +16,9 @@ Chrome Browser
 Requirements:
 Set Configure build path libraries with JRE System Library 1.8 or above
 Goto to testDataPackage and open DataSet.java file...
-    Update email data for every user data for every run 
-    johnKanir101@gmalla.com  update like johnKanir102@gmalla.com
-    jacyjane101@dffda.com  update like jacyjane102@dffda.com 
+Update email data for every user data for every run 
+johnKanir101@gmalla.com  update like johnKanir102@gmalla.com
+jacyjane101@dffda.com  update like jacyjane102@dffda.com 
 How to Run the script:
 Right Click on testng.xml file from project home directory
 Then select Run as TestNG
