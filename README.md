@@ -1,6 +1,5 @@
 Automation Practice
 This project automates the sookh.com website's multiple new user creation and purchase processes.
-
 Technology used
 Test tool: Selenium Webdriver
 Language: Java
